@@ -1,2 +1,4 @@
-# git-assignment_2
-Github Assignment in Software Engineering Lab
+Name: Shivansh Gupta
+Roll No: 2024BCS-066
+Course: Software Engineering
+Semester: 4
